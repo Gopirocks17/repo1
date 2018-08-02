@@ -1,0 +1,13 @@
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+https://devcenter.heroku.com/articles/deploying-python
+https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/
+
+
+https://github.com/jmportilla/
+
+
+
+lia-116360
+
+level2 -first_project
